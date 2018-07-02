@@ -184,7 +184,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <hr/>
 
-{% comment %} 
+<!-- {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
@@ -199,7 +199,7 @@ and our administrator may contact you if we need any extra information.</h4>
 <p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% elsif page.carpentry == "lc" %}
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
-{% endif %}
+{% endif %} -->
 
 <hr/>
 
