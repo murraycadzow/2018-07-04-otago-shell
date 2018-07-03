@@ -272,6 +272,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   workshop,
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
+<p>
+  If you want to test out the the Secure Shell (SSH) during the final part of the workshop you need to ensure that you have
+  the necessary SSH software installed as well as the material below. MacOS and Linux already come with SSH, 
+  but Windows typically does not. On Windows should first install the "Portable edition" of
+  <a href="https://mobaxterm.mobatek.net/download-home-edition.html">MobaXterm</a>.
+  (The "Installer edition" is fine too, but may require you to have administrator privileges on your laptop.)
+</p>
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
